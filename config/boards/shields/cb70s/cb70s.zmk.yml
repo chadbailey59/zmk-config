@@ -1,6 +1,6 @@
 file_format: "1"
 id: cb70s
-name: CB70S
+name: CB70S2
 type: shield
 url: https://github.com/chadbailey59/zmk-config
 requires:
